@@ -1,0 +1,15 @@
+C:\Users\larin\Documents\задания\Example.001\bin\Debug\net7.0\Example.001.exe
+C:\Users\larin\Documents\задания\Example.001\bin\Debug\net7.0\Example.001.deps.json
+C:\Users\larin\Documents\задания\Example.001\bin\Debug\net7.0\Example.001.runtimeconfig.json
+C:\Users\larin\Documents\задания\Example.001\bin\Debug\net7.0\Example.001.dll
+C:\Users\larin\Documents\задания\Example.001\bin\Debug\net7.0\Example.001.pdb
+C:\Users\larin\Documents\задания\Example.001\obj\Debug\net7.0\Example.001.csproj.AssemblyReference.cache
+C:\Users\larin\Documents\задания\Example.001\obj\Debug\net7.0\Example.001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larin\Documents\задания\Example.001\obj\Debug\net7.0\Example.001.AssemblyInfoInputs.cache
+C:\Users\larin\Documents\задания\Example.001\obj\Debug\net7.0\Example.001.AssemblyInfo.cs
+C:\Users\larin\Documents\задания\Example.001\obj\Debug\net7.0\Example.001.csproj.CoreCompileInputs.cache
+C:\Users\larin\Documents\задания\Example.001\obj\Debug\net7.0\Example.001.dll
+C:\Users\larin\Documents\задания\Example.001\obj\Debug\net7.0\refint\Example.001.dll
+C:\Users\larin\Documents\задания\Example.001\obj\Debug\net7.0\Example.001.pdb
+C:\Users\larin\Documents\задания\Example.001\obj\Debug\net7.0\Example.001.genruntimeconfig.cache
+C:\Users\larin\Documents\задания\Example.001\obj\Debug\net7.0\ref\Example.001.dll
